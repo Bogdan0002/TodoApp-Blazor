@@ -1,0 +1,6 @@
+C:\Users\felly\RiderProjects\WebApiTutorial\WebAPITutorial\Domain\bin\Debug\Domain.dll
+C:\Users\felly\RiderProjects\WebApiTutorial\WebAPITutorial\Domain\bin\Debug\Domain.pdb
+C:\Users\felly\RiderProjects\WebApiTutorial\WebAPITutorial\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\felly\RiderProjects\WebApiTutorial\WebAPITutorial\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\felly\RiderProjects\WebApiTutorial\WebAPITutorial\Domain\obj\Debug\Domain.dll
+C:\Users\felly\RiderProjects\WebApiTutorial\WebAPITutorial\Domain\obj\Debug\Domain.pdb
