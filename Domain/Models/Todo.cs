@@ -7,7 +7,7 @@ namespace Domain.Models
         public int Id { get; set; }
         public User Owner { get; }
         public string Title { get; }
-        public bool isCompleted { get; }
+        public bool isCompleted { get; set; }
 
         public Todo(User owner, string title)
         {
@@ -15,7 +15,7 @@ namespace Domain.Models
             Title = title; 
         }
         
-        // public List<Todo> Todos { get; set; }
+        
         
 
     }

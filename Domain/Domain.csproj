@@ -38,6 +38,10 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="DTOs\SearchTodoParametersDto.cs" />
+        <Compile Include="DTOs\SearchUserParametersDto.cs" />
+        <Compile Include="DTOs\TodoCreationDto.cs" />
+        <Compile Include="DTOs\TodoUpdateDto.cs" />
         <Compile Include="DTOs\UserCreationDto.cs" />
         <Compile Include="Models\Todo.cs" />
         <Compile Include="Models\User.cs" />
