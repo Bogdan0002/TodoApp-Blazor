@@ -1,0 +1,80 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "UserName": "Bogdan"
+    },
+    {
+      "Id": 2,
+      "UserName": "Ion"
+    },
+    {
+      "Id": 3,
+      "UserName": "Gabriela"
+    },
+    {
+      "Id": 4,
+      "UserName": "Carolina"
+    },
+    {
+      "Id": 5,
+      "UserName": "Mogup"
+    }
+  ],
+  "Todos": [
+    {
+      "Id": 2,
+      "Owner": {
+        "Id": 2,
+        "UserName": "Ion"
+      },
+      "Title": "Wake up at 6:00",
+      "isCompleted": false
+    },
+    {
+      "Id": 3,
+      "Owner": {
+        "Id": 1,
+        "UserName": "Bogdan"
+      },
+      "Title": "string",
+      "isCompleted": false
+    },
+    {
+      "Id": 4,
+      "Owner": {
+        "Id": 3,
+        "UserName": "Gabriela"
+      },
+      "Title": "Make a coffee",
+      "isCompleted": false
+    },
+    {
+      "Id": 5,
+      "Owner": {
+        "Id": 2,
+        "UserName": "Ion"
+      },
+      "Title": "Make something",
+      "isCompleted": false
+    },
+    {
+      "Id": 6,
+      "Owner": {
+        "Id": 4,
+        "UserName": "Carolina"
+      },
+      "Title": "Make the bed",
+      "isCompleted": false
+    },
+    {
+      "Id": 1,
+      "Owner": {
+        "Id": 1,
+        "UserName": "Bogdan"
+      },
+      "Title": "Clean the house",
+      "isCompleted": true
+    }
+  ]
+}
